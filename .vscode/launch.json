@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MultipleLoginPagesApplication<multiple-login-pages>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.multipleloginpages.MultipleLoginPagesApplication",
+            "projectName": "multiple-login-pages",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
